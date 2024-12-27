@@ -2,7 +2,7 @@ const eli7 = ()=>{
     return "happy chanuka!!"
 }
 
-const donuts = ()=>{
+const levivot = ()=>{
     console.error("diet????");    
 }
 
