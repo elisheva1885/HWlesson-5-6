@@ -9,3 +9,7 @@ const levivot = ()=>{
 const miryami = ()=>{
     return "thank you :)"
 }
+
+const sevivon = ()=>{
+    alert("sov sov sov")
+}
