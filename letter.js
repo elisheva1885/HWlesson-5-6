@@ -2,11 +2,13 @@ const eli7 = ()=>{
     return "happy chanuka!!"
 }
 
+let miracles;
+
 const donuts = ()=>{
     console.error("diet????");    
 }
 
-const miryami = ()=>{
+const miryam = ()=>{
     return "thank you :)"
 }
 
